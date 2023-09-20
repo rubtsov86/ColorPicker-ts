@@ -1,7 +1,9 @@
 import React from "react";
 
+import { ColorPicker } from "./ColorPicker/ColorPicker";
+
 function App() {
-  return <div className="App">qweqweqweqweerqwee</div>;
+  return <ColorPicker />;
 }
 
 export default App;
